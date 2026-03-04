@@ -44,14 +44,8 @@ Exploratory Data Analysis
  
 Exploration of employee benefits claims data to analyze claim distribution, approval trends, and departmental spending patterns.
  
-Key Highlights:
- 
-• Analyzed claims dataset using SQL queries  
-• Used Python for data cleaning and analysis  
-• Built dashboard visualizations to explore claim patterns  
- 
-🔗 Project Repository  
-https://github.com/Dhruv-160/employee-benefits-claims-analysis
+🔗 **Project Repository**  
+[View Project on GitHub](https://github.com/Dhruv-160/employee-benefits-claims-analysis)
  
 ---
  
@@ -61,14 +55,8 @@ https://github.com/Dhruv-160/employee-benefits-claims-analysis
  
 Analysis of workforce utilization data to explore workload distribution and potential capacity planning scenarios.
  
-Key Highlights:
- 
-• Examined workforce utilization patterns  
-• Built Power BI dashboard for visualization  
-• Explored under-utilization and workload distribution  
- 
-🔗 Project Repository  
-https://github.com/Dhruv-160/resource-utilization-capacity-analytics
+🔗 **Project Repository**  
+[View Project on GitHub](https://github.com/Dhruv-160/resource-utilization-capacity-analytics)
  
 ---
  
@@ -78,29 +66,16 @@ https://github.com/Dhruv-160/resource-utilization-capacity-analytics
  
 Exploratory analysis of payroll error records to understand possible cost drivers and error patterns.
  
-Key Highlights:
- 
-• Data analysis using SQL queries  
-• Python-based data exploration  
-• Identified potential error patterns in payroll records  
- 
-🔗 Project Repository  
-https://github.com/Dhruv-160/payroll-error-cost-analysis
- 
+🔗 **Project Repository**  
+[View Project on GitHub](https://github.com/Dhruv-160/payroll-error-cost-analysis)
+
 ---
- 
-# Currently Exploring
- 
-• Advanced SQL querying  
-• Data storytelling through dashboards  
-• Python-based data analysis workflows  
- 
----
- 
+
 # Contact
  
 📧 Email: dhruv16.xd@gmail.com  
  
-🔗 LinkedIn: [https://www.linkedin.com/in/dhruvgupta1602/]
+🔗 [GitHub Profile](https://github.com/Dhruv-160)
  
-🔗 GitHub: https://github.com/Dhruv-160
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruvgupta1602/)
+ 
